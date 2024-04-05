@@ -68,5 +68,9 @@ void LinearSearch()
 		}
 	}
 	
-	int main() 
+	int main()
 	{
+		input();
+		LinearSearch();
+		display();
+	}
