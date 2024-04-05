@@ -25,3 +25,6 @@ for (1 = 0; i < n; i++)
 	cin >> arr[i];
 	}
 }
+
+void LinearSearch() 
+{
