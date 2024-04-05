@@ -26,13 +26,13 @@ for (1 = 0; i < n; i++)
 	}
 }
 
-void LinearSearch() 
+void LinearSearch()
 {
 	char ch;
 	int ctr; //number of comparison
 	int item;
 
-	do 
+	do
 	{
 		cout << "\nEnter the element you want to search: "; // step 1
 		cin >> item;
@@ -57,3 +57,7 @@ void LinearSearch()
 		cin >> ch;
 
 	} while ((ch == 'y') || ch == 'y');
+}
+	void display()
+	{
+		cout << "array elements are: ";
