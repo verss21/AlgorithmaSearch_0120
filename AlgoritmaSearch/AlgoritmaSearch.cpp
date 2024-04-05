@@ -28,3 +28,6 @@ for (1 = 0; i < n; i++)
 
 void LinearSearch() 
 {
+	char ch;
+	int ctr; //number of comparison
+	int item;
