@@ -48,3 +48,5 @@ void LinearSearch()
 				break;
 			}
 			i++;//step 4
+		}
+		if (i == n)// step 5
